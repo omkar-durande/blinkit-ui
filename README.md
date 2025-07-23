@@ -40,8 +40,8 @@ flutter run
 ---
 
 ### 📸 Screenshots
+![WhatsApp Image 2025-07-23 at 15 28 30](https://github.com/user-attachments/assets/b810fa29-4ab8-4935-8bae-872fa642dc37)
 
-(Add images of your home screen, product grid, cart page, etc.)
 
 ---
 
