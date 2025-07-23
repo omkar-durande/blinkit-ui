@@ -41,6 +41,7 @@ flutter run
 
 ### 📸 Screenshots
 ![splashscreen]([https://github.com/user-attachments/assets/b810fa29-4ab8-4935-8bae-872fa642dc37](https://github.com/omkar-durande/blinkit-ui/blob/5b125240a514c4856650004eb850614faf78f912/splashscreen.jpeg)
+![LoginScreen](https://github.com/omkar-durande/blinkit-ui/blob/d4d4a46918fcb9e14cb263591343ed17da4c63ea/loginscreen.jpeg)
 
 
 ---
