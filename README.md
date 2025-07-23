@@ -39,7 +39,7 @@ flutter run
 
 ---
 
-### 📸 Screenshots<h3>📸 Screenshots</h3>
+### 📸 Screenshots
 
 <p float="left">
   <img src="https://github.com/omkar-durande/blinkit-ui/blob/5b125240a514c4856650004eb850614faf78f912/splashscreen.jpeg?raw=true" width="200"/>
